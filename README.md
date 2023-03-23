@@ -39,4 +39,16 @@ This is <span style="color:#ddf0e4">light green</span>
 
 >This is a blockquote
 
-``This escapes backtick` `` 
+
+---
+
+Creating horizontal rules
+
+---
+
+
+```
+This is a Code block
+sdfsdfsdfsdfsdfs
+```
+
